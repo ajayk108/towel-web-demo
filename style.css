@@ -12,7 +12,8 @@
     background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
-    animation: background 45s infinite ease-in-out;
+    animation: background 15s infinite ease-in-out;
+    transform: translate3d(0, 0, 0);
 }
 
 @keyframes background {
