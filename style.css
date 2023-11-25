@@ -10,7 +10,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    transition: background 1s ease-in-out;
+    transition: background 30s ease-in-out;
 }
 
 @keyframes fadeOut {
