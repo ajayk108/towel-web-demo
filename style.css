@@ -17,21 +17,21 @@
 
 @keyframes background {
     0% {
-        background-image: url(1.jpg);
+        background-image: url(9.jpg);
     }
-    20% {
+    30% {
         background-image: url(2.jpg);
     }
-    40% {
+    50% {
         background-image: url(4.jpg);
     }
-    60% {
+    70% {
         background-image: url(5.jpg);
     }
-    80% {
-        background-image: url(6.jpg);
+    85% {
+        background-image: url(7.jpg);
     }
     100% {
-        background-image: url(8.jpg);
+        background-image: url(10.jpg);
     }
 }
