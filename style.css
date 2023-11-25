@@ -7,12 +7,12 @@
 
 .home-banner {
     height: 85vh;
-    background-image: url(9.jpg);
+    /* background-image: url(9.jpg); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
-    animation: background 30s infinite ease-in-out;
+    animation: background 45s infinite ease-in-out;
 }
 
 @keyframes background {
